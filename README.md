@@ -1,14 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Kambulov?template=classic&repositories=1&code=1&starlists=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FSimferopol&config.twemoji=true)
 
-name: Organization introduction
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.introduction.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  user: github
-  base: header
-  plugin_introduction: yes
 <!--
 **Kambulov/Kambulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
