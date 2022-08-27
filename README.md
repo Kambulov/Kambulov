@@ -1,6 +1,14 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+name: Organization introduction
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.introduction.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  user: github
+  base: header
+  plugin_introduction: yes
 <!--
 **Kambulov/Kambulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
